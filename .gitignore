@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Outputs
+outputs/
+
+# Dataset
+dataset/
+
+# Model files
+*.keras
+*.h5
+
+# Mac
+.DS_Store
